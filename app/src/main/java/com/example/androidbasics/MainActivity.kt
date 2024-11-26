@@ -67,6 +67,7 @@ fun GreetingImage(message: String , from: String ,modifier: Modifier = Modifier)
 
 // Cutom font
 //val customFont = FontFamily(Font(R.font.roboto_lightitalic))
+// added some bugs
 
 @Composable
 fun GreetingText(message: String,from : String ,modifier: Modifier = Modifier){
